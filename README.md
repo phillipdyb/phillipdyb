@@ -8,7 +8,7 @@
 
 - 👯 In my freetime, I like to tinker with Linux, Docker and FrontEnd.
 
-![Intro](./cat.gif)
+<img src="./cat.gif" alt="Intro" width="300"/>
 
 <!--
 **phillipdyb/phillipdyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
