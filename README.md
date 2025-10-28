@@ -6,7 +6,7 @@
 
 - 🏫 At NTNU, I'm currently learning Java and Python.
 
-- 👯 In my freetime, I like to tinker with Linux, Docker and FrontEnd.
+- 💻 In my freetime, I like to tinker with Linux, Docker and FrontEnd.
 
 <img src="./cat.gif" alt="Intro" width="300"/>
 
